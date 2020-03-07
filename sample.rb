@@ -1,7 +1,7 @@
 
 require "wavefile"
 
-OUTPUT_FILENAME = "mysound.wav"
+OUTPUT_FILENAME = "f-sine.wav"
 SAMPLE_RATE = 44100
 SECONDS_TO_GENERATE = 1
 TWO_PI = 2 * Math::PI
